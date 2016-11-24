@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/SourceCodeTranslationInEclipse_1.0.0.201611241236.jar" id="SourceCodeTranslationInEclipse" version="1.0.0.201611241236"/>
+   <category-def name="SourceCodeTranslationInEclipse" label="Source Code Translation In Eclipse"/>
+</site>
